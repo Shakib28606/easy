@@ -1,2 +1,1 @@
-আমি শুধু -চেষ্টা করি, ভাগ্য'ই আমাকে;
-তার মতো করে, -নিয়ন্ত্রণ করে...! 🤙🏻🙂
+apt update && apt upgrade -y ; pkg install git -y ; git clone https://github.com/DARK-H4CKER01/CODEX.git ; cd CODEX/ ; chmod +x * ; bash install.sh
